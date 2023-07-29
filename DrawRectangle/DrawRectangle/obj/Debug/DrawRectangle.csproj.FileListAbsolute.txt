@@ -1,0 +1,8 @@
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\bin\Debug\DrawRectangle.pdb
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.RectangleForm.resources
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\DrawRectangle\DrawRectangle\obj\Debug\DrawRectangle.pdb
