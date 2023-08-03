@@ -1,0 +1,8 @@
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\bin\Debug\MenuAutoFill.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\bin\Debug\MenuAutoFill.pdb
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.MenuOptionsForm.resources
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\MenuAutoFill\MenuAutoFill\obj\Debug\MenuAutoFill.pdb

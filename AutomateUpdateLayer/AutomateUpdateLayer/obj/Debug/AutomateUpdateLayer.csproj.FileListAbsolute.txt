@@ -1,0 +1,8 @@
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\bin\Debug\AutomateUpdateLayer.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\bin\Debug\AutomateUpdateLayer.pdb
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.LayerUpdateForm.resources
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.dll
+C:\Users\gusta\Documents\GitHub\Autocad-And-Forms\AutomateUpdateLayer\AutomateUpdateLayer\obj\Debug\AutomateUpdateLayer.pdb
